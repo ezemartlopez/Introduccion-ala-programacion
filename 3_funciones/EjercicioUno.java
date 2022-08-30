@@ -1,4 +1,4 @@
-public class Main {
+class EjercicioUno {
   static int sumar(int x, int y, int z) {
     return x + y + z;
   }
@@ -16,4 +16,5 @@ public class Main {
     
     System.out.println("double: " + Num3);
   }
+
 }
